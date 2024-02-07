@@ -1,0 +1,37 @@
+body{
+    background: url("Assets/img/logoGeneration.apng");
+    background-repeat: no-repeat;
+    background-color: white;
+    background-size: 100%;
+    text-align: center;
+    }
+
+    #titulo{
+        color: black;
+        margin-top: 150px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 50px;
+        margin-bottom: 20px;
+    }
+
+    .subTitulo{
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        justify-content: center;
+    }
+
+    .centro{
+        display:inline;
+        justify-content: center;
+
+    }
+
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+    
+    ul li {
+        display: inline;
+        margin-right: 10px; /* Espaçamento entre os botões */
+    }
